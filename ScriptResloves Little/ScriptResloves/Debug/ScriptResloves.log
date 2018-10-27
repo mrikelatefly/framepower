@@ -1,0 +1,17 @@
+﻿  ScriptResloves.cpp
+d:\visual studio\common\stringoperation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visual studio\common\stringoperation.h(282): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\numset.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\numset.h(110): warning C4101: “s”: 未引用的局部变量
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\numset.h(245): warning C4101: “p”: 未引用的局部变量
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\expressionresloves.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\expressionresloves.h(85): warning C4101: “result”: 未引用的局部变量
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\expressionresloves.h(235): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\functionlist.h(84): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  d:\visual studio\scriptresloves 10 16\scriptresloves\includes\functionlist.h(84): note: 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+  d:\visual studio\scriptresloves 10 16\scriptresloves\includes\functionlist.h(84): note: 缺失的可变参数 1 为格式字符串“%lf”所需
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\functionlittle.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\functionlittle.h(95): warning C4101: “p”: 未引用的局部变量
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\functionlittle.h(148): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\scriptresloves 10 16\scriptresloves\includes\numset.h(332): warning C4715: “GetVaryable”: 不是所有的控件路径都返回值
+  ScriptResloves.vcxproj -> D:\Visual Studio\ScriptResloves 10 16\Debug\ScriptResloves.exe
